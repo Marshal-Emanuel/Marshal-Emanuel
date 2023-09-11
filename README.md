@@ -28,6 +28,6 @@ I'm a software developer with a passion for cybersecurity and web development. I
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=emanuelmarshal" alt="visitor badge"/>
-</p>
+</p>-->
