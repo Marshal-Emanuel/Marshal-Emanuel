@@ -23,8 +23,8 @@ I'm a software developer with a passion for cybersecurity and web development. I
 
 ## Projects
 
-- [Project 1](https://github.com/emanuelmarshal/project1): Short project description.
-- [Project 2](https://github.com/emanuelmarshal/project2): Short project description.
+- [Project 1](https://github.com/Marshal-Emanuel/PROJECTS): Short project description.
+
 
 ---
 
