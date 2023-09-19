@@ -20,7 +20,7 @@ I'm a software developer with a passion for cybersecurity and web development. I
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 badge" />
 </p>
-
+ 
 ## Projects
 
 - [Project 001](https://github.com/Marshal-Emanuel/PROJECTS): A Project on Student Management System.
