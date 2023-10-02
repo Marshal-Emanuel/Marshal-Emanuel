@@ -17,8 +17,12 @@ Programming Languages:
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 
-Networking & Operating Systems:
+### Networking
+
 [![Networking](https://img.shields.io/badge/Networking-00AEEF?logo=network&logoColor=white)](https://en.wikipedia.org/wiki/Computer_network)
+
+### Operating Systems
+
 [![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
