@@ -19,7 +19,7 @@ Programming Languages:
 
 ### Networking
 
-[![Networking](https://img.shields.io/badge/Networking-00AEEF?logo=network&logoColor=white)](https://en.wikipedia.org/wiki/Computer_network)
+![Networking](./images/network.png) <!-- Replace with the actual path to your image -->
 
 ### Operating Systems
 
