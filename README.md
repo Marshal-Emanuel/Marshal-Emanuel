@@ -19,7 +19,7 @@ Programming Languages:
 
 ### Networking
 
-![Networking](https://img.shields.io/badge/Networking-00AEEF?style=for-the-badge&logo=network&logoColor=white)
+![Cisco](https://img.shields.io/badge/Networking-00AEEF?style=for-the-badge&logo=network&logoColor=white)
 
 ### Operating Systems
 
