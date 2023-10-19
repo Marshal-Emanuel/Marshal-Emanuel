@@ -32,4 +32,3 @@ Programming Languages:
 
 - [Project 001](https://github.com/Marshal-Emanuel/PROJECTS): Student Management System
 
-Feel free to explore my projects, and if you have any questions or ideas for collaboration, don't hesitate to reach out.
