@@ -2,7 +2,7 @@
 
 ---
 
-## About Me 
+## About Me  
  
 I'm a software developer with a passion for cybersecurity and web development. I specialize in several programming languages and technologies.  
 
