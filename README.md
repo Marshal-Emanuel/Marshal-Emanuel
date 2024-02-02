@@ -6,7 +6,7 @@
  
 I'm a software developer with a passion for cybersecurity and web development. I specialize in several programming languages and technologies.  
 
-### Skills
+### Skills 
 
 Programming Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
