@@ -23,4 +23,5 @@ I'm a software developer with a passion for cybersecurity and web development. I
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshal-Emanuel)
 
