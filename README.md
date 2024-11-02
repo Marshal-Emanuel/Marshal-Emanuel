@@ -22,6 +22,8 @@ I'm a software developer with a passion for cybersecurity and web development. I
 ![Linux](https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={transparent}
+
 ---
 
 
