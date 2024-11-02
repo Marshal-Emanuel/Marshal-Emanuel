@@ -1,4 +1,8 @@
-# Hi, I'm Emanuel Marshal
+
+
+
+https://github.com/user-attachments/assets/c882fdad-36af-4585-a242-3acf24009124
+
 
 ---
 
