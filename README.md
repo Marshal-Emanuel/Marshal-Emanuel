@@ -27,7 +27,6 @@ I'm a Computer Scientist specializing in Full-Stack software development, Cyber 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
     <img width="12" />
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="mssql" />
-    <p align="center"><em>Backend & Databases</em></p>
   </div>
 
   <!-- Frontend & UI (7 items) -->
@@ -45,7 +44,6 @@ I'm a Computer Scientist specializing in Full-Stack software development, Cyber 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart" />
-    <p align="center"><em>Frontend & UI</em></p>
   </div>
 
   <!-- Development Tools & DevOps (6 items) -->
@@ -61,7 +59,6 @@ I'm a Computer Scientist specializing in Full-Stack software development, Cyber 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
-    <p align="center"><em>Development Tools & DevOps</em></p>
   </div>
 
   <!-- Platform & Design Tools (4 items) -->
@@ -73,7 +70,6 @@ I'm a Computer Scientist specializing in Full-Stack software development, Cyber 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva" />
-    <p align="center"><em>Platform & Design Tools</em></p>
   </div>
 
   <!-- Testing & Quality Assurance (3 items) -->
@@ -83,7 +79,6 @@ I'm a Computer Scientist specializing in Full-Stack software development, Cyber 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="40" alt="jasmine" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" height="40" alt="karma" />
-    <p align="center"><em>Testing & Quality Assurance</em></p>
   </div>
 </div>
 
@@ -91,9 +86,9 @@ I'm a Computer Scientist specializing in Full-Stack software development, Cyber 
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshal-Emanuel&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="Marshal-Emanuel's Top Languages" />
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Marshal-Emanuel&theme=prussian&hide_border=true" alt="Marshal-Emanuel's GitHub Streak" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshal-Emanuel&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="Marshal-Emanuel's Top Languages" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Marshal-Emanuel&theme=prussian&hide_border=true" alt="Marshal-Emanuel's GitHub Streak" />
   </div>
   
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=Marshal-Emanuel&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="Marshal-Emanuel's GitHub Stats" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Marshal-Emanuel&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="Marshal-Emanuel's GitHub Stats" />
 </div>
