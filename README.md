@@ -1,5 +1,5 @@
 
-<!DOCTYPE html><body><center><img src='https://github.com/user-attachments/assets/8818debc-89fb-4cef-910f-27853c4c0fac' alt='Blue Navy and Orange Geometric Technology LinkedIn Banner' style='max-width: 100%;'/></center></body>
+<a href='#'><img src='https://github.com/user-attachments/assets/8818debc-89fb-4cef-910f-27853c4c0fac' alt='Blue Navy and Orange Geometric Technology LinkedIn Banner' style='max-width: 100%;'/></a>
 
 ---
 
