@@ -1,8 +1,5 @@
 
-
-
-https://github.com/user-attachments/assets/c882fdad-36af-4585-a242-3acf24009124
-
+![BlueNavyandOrangeGeometricTechnologyLinkedInBanner-ezgif com-effects](https://github.com/user-attachments/assets/8818debc-89fb-4cef-910f-27853c4c0fac)
 
 ---
 
