@@ -1,5 +1,5 @@
+![BlueNavyandOrangeGeometricTechnologyLinkedInBanner-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/29d74c09-5359-435c-b679-a96dd8fdb990)
 
-<a href='#'><img src='https://github.com/user-attachments/assets/8818debc-89fb-4cef-910f-27853c4c0fac' alt='Blue Navy and Orange Geometric Technology LinkedIn Banner' style='max-width: 100%;'/></a>
 
 ---
 
