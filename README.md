@@ -1,6 +1,6 @@
 ![BlueNavyandOrangeGeometricTechnologyLinkedInBanner-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/29d74c09-5359-435c-b679-a96dd8fdb990)
 
-# Hello, I'm Marshal Emanuel! 👋
+# Hello Worls, I'm Emanuel Marshal! 👋
 
 ## About Me
 I'm a Computer Scientist specializing in Full-Stack software development, Cyber Security, and Networking. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
