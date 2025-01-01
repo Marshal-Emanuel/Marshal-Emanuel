@@ -3,7 +3,12 @@
 # Hello World, I'm Emanuel Marshal! 👋
 
 ## About Me
-I'm a Computer Scientist specializing in Full-Stack software development, Cyber Security, and Networking. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+
+I'm a Computer Scientist specializing in Full-Stack Software Development, Cybersecurity, and Networking. With a proven track record of delivering innovative solutions, I thrive in designing and implementing efficient, scalable, and secure systems.  
+
+My work focuses on building seamless user experiences, optimizing performance, and ensuring robust security for digital infrastructures. I am passionate about solving complex problems, continuously learning, and staying at the forefront of emerging technologies.  
+
+I enjoy taking on challenging projects that push the boundaries of what's possible in technology, delivering impactful results in dynamic environments.
 
 ## Tech Stack
 
