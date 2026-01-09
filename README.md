@@ -95,4 +95,8 @@ I'm a **Computer Scientist** specializing in **Full-Stack Software Development**
   <br/><br/>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marshal-Emanuel&theme=react-dark&hide_border=true&area=true&height=250&custom_title=Contribution%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="90%" alt="Contribution Graph" />
+  
+  <br/><br/>
+  
+  <img src="https://raw.githubusercontent.com/Marshal-Emanuel/Marshal-Emanuel/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
