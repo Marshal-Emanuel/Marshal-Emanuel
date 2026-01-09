@@ -2,13 +2,8 @@
   <img src="https://github.com/user-attachments/assets/29d74c09-5359-435c-b679-a96dd8fdb990" width="100%" alt="Banner" />
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/Marshal-Emanuel">Emanuel Marshal</a></h1>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Developer;Cybersecurity+Specialist;Networking+Expert;Continuous+Learner" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="center">Emanuel Marshal</h1>
+<h3 align="center">Full-Stack Software Developer | Cybersecurity Specialist | Cloud Architect</h3>
 
 ---
 
@@ -31,16 +26,20 @@ I'm a **Computer Scientist** specializing in **Full-Stack Software Development**
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,mongodb,postgres,mysql" />
 
 ### Frontend & Frameworks
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,flutter,dart" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,flutter,dart" />
 
 ### Cloud & Deployment
-<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,render" />
 
 ### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,github,gitlab,vscode,androidstudio,postman,npm,linux,nginx,apache,figma" />
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vscode,androidstudio,postman,linux,figma" />
 
-### Testing
-<img src="https://skillicons.dev/icons?i=jest" />
+### Testing & Quality Assurance
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="48" alt="Jest" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="48" alt="Jasmine" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/grafana/k6/master/assets/k6-logo.svg" height="48" alt="K6" />
 
 </div>
 
