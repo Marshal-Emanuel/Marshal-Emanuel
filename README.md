@@ -29,7 +29,7 @@ I'm a **Computer Scientist** specializing in **Full-Stack Software Development**
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,flutter,dart" />
 
 ### Cloud & Deployment
-<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,render" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,heroku" />
 
 ### Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vscode,androidstudio,postman,linux,figma" />
