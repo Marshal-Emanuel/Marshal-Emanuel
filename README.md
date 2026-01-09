@@ -3,7 +3,12 @@
 </div>
 
 <h1 align="center">Emanuel Marshal</h1>
-<h3 align="center">Full-Stack Software Developer | Cybersecurity Specialist | Cloud Architect</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Cloud+Architect;Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -22,19 +27,51 @@ I'm a **Computer Scientist** specializing in **Full-Stack Software Development**
 
 <div align="center">
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,mongodb,postgres,mysql" />
+<table>
+<tr>
+<td align="center" width="50%" style="border-right: 2px solid #444; border-bottom: 2px solid #444;">
 
-### Frontend & Frameworks
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,flutter,dart" />
+**Backend & Databases**
 
-### Cloud & Deployment
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php" />
+
+</td>
+<td align="center" width="50%" style="border-bottom: 2px solid #444;">
+
+**Frontend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,flutter,dart" />
+
+</td>
+</tr>
+<tr>
+<td align="center" style="border-right: 2px solid #444;">
+
+**Cloud & Deployment**
+
 <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,heroku" />
 
-### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vscode,androidstudio,postman,linux,figma" />
+</td>
+<td align="center">
 
-### Testing & Quality Assurance
+**Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,docker,linux" />
+<br/>
+<img src="https://skillicons.dev/icons?i=kubernetes,vscode,androidstudio,postman,figma" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**QA/QE**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="48" alt="Jest" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="48" alt="Jasmine" />
@@ -54,4 +91,8 @@ I'm a **Computer Scientist** specializing in **Full-Stack Software Development**
   
   <img src="https://github-readme-stats.vercel.app/api?username=Marshal-Emanuel&theme=prussian&show_icons=true&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshal-Emanuel&layout=compact&theme=prussian&hide_border=true" width="49%" alt="Top Languages" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marshal-Emanuel&theme=react-dark&hide_border=true&area=true&height=250&custom_title=Contribution%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="90%" alt="Contribution Graph" />
 </div>
