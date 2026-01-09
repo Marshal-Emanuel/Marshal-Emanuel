@@ -10,8 +10,6 @@
   </a>
 </p>
 
----
-
 ## About Me
 
 I'm a **Computer Scientist** specializing in **Full-Stack Software Development**, **Cybersecurity**, and **Networking**. With a proven track record of delivering innovative solutions, I thrive in designing and implementing efficient, scalable, and secure systems.
@@ -20,8 +18,6 @@ I'm a **Computer Scientist** specializing in **Full-Stack Software Development**
 - Passionate about **security optimization** and **performance tuning**
 - Taking on challenging projects that push the boundaries of technology
 - Continuously learning and staying at the forefront of emerging technologies
-
----
 
 ## Tech Stack
 
@@ -79,8 +75,6 @@ I'm a **Computer Scientist** specializing in **Full-Stack Software Development**
 <img src="https://raw.githubusercontent.com/grafana/k6/master/assets/k6-logo.svg" height="48" alt="K6" />
 
 </div>
-
----
 
 ## GitHub Stats
 
