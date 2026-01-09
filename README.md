@@ -90,7 +90,6 @@ I'm a **Computer Scientist** specializing in **Full-Stack Software Development**
   <br/><br/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=Marshal-Emanuel&theme=prussian&show_icons=true&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshal-Emanuel&layout=compact&theme=prussian&hide_border=true" width="49%" alt="Top Languages" />
   
   <br/><br/>
   
