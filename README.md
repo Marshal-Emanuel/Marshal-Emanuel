@@ -2,8 +2,6 @@
   <img src="https://github.com/user-attachments/assets/29d74c09-5359-435c-b679-a96dd8fdb990" width="100%" alt="Banner" />
 </div>
 
-<h1 align="center">Emanuel Marshal</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Cloud+Architect;Problem+Solver" alt="Typing SVG" />
